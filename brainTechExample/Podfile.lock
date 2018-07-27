@@ -1,0 +1,16 @@
+PODS:
+  - BrainTechFrameWork (1.0.0)
+
+DEPENDENCIES:
+  - BrainTechFrameWork (from `../BrainTechFrameWork/`)
+
+EXTERNAL SOURCES:
+  BrainTechFrameWork:
+    :path: "../BrainTechFrameWork/"
+
+SPEC CHECKSUMS:
+  BrainTechFrameWork: fca785c2ddbf31a37fe3b2b2cb11bf2fba319feb
+
+PODFILE CHECKSUM: ce6b86de00ef2b04ff3d6b85b4b96817e0485237
+
+COCOAPODS: 1.5.3

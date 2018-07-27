@@ -1,0 +1,19 @@
+{
+  "name": "BrainTechFrameWork",
+  "version": "1.0.0",
+  "summary": "This is such a good BrainTechFrameWork.",
+  "description": "This is such a good BrainTechFrameWork.",
+  "homepage": "https://github.com/brainstormjitesh/BrainTechFramework.git",
+  "license": "MIT",
+  "authors": {
+    "brainstorm jitesh": "brainstorm.jitesh@gmail.com"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/brainstormjitesh/BrainTechFramework.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "BrainTechFrameWork/**/*"
+}

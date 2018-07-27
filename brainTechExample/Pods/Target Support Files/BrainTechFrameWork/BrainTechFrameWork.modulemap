@@ -1,0 +1,6 @@
+framework module BrainTechFrameWork {
+  umbrella header "BrainTechFrameWork-umbrella.h"
+
+  export *
+  module * { export * }
+}
