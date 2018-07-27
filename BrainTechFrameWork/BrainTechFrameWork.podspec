@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.name         = "BrainTechFrameWork"
   s.version      = "1.0.0"
   s.summary      = "This is such a good BrainTechFrameWork."
-  s.description  = "This is such a good BrainTechFrameWork."
+  s.description  = "This is such a good BrainTechFrameWork. Most useful“
   s.homepage     = "https://github.com/brainstormjitesh/BrainTechFramework.git"
   s.license      = "MIT"
   s.author             = { "brainstorm jitesh" => "brainstorm.jitesh@gmail.com" }
